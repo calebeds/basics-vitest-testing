@@ -1,5 +1,5 @@
 import { it, expect } from 'vitest';
-import { add } from '../math';
+import { add } from './math.js';
 
 it('should summarize all numbers values in an array', () => {
     //Arrange
